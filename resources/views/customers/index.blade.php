@@ -9,7 +9,7 @@
             <th>Email</th>
             <th>Comment</th>
             <th>Company</th>
-            <th>Actions</th>
+            <th style="width: 15%">Actions</th>
         </tr>
         @foreach ($customers as $customer)
         <tr>

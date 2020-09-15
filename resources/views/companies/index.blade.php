@@ -5,7 +5,7 @@
         <tr>
             <th>Company name</th>
             <th>Address</th>
-            <th>Actions</th>
+            <th style="width: 15%">Actions</th>
         </tr>
         @foreach ($companies as $company)
         <tr>
